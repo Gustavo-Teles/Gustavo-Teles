@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Movido pela curiosidade e pela paixão por tecnologia e criatividade, compartilho aqui meus projetos e experimentos.</p>
+<p align="left">Driven by curiosity and a passion for technology and creativity, I share my projects and experiments here.</p>
 
 ###
 
