@@ -1,3 +1,11 @@
+<p align="center">Hello, I'm Gustavo Teles 👋</p>
+
+###
+
+<p align="left">Movido pela curiosidade e pela paixão por tecnologia e criatividade, compartilho aqui meus projetos e experimentos.</p>
+
+###
+
 <h2 align="left">🧠 About Me</h2>
 
 ###
